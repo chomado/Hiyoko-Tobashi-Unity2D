@@ -1,9 +1,15 @@
 fileFormatVersion: 2
 guid: 0a49f729c403849ba95623a4ffe3862e
-timeCreated: 1515859744
+timeCreated: 1515859844
 licenseType: Pro
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: HiyokoGameMaterials_0
+    21300002: HiyokoGameMaterials_1
+    21300004: HiyokoGameMaterials_2
+    21300006: HiyokoGameMaterials_3
+    21300008: HiyokoGameMaterials_4
+    21300010: HiyokoGameMaterials_5
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -40,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -66,9 +72,113 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: HiyokoGameMaterials_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 952
+        width: 1481
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiyokoGameMaterials_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 1480
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiyokoGameMaterials_2
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 618
+        width: 140
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiyokoGameMaterials_3
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 609
+        width: 247
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiyokoGameMaterials_4
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 300
+        width: 192
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: HiyokoGameMaterials_5
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 295
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 
