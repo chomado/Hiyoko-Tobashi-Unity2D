@@ -458,52 +458,6 @@ MonoBehaviour:
   Power: 1000
   CannonBall: {fileID: 1770103559432636, guid: 1bf0a63cbeb3847d7867f3ff28123e85, type: 2}
   SpawnPoint: {fileID: 2064148174}
---- !u!1001 &971802794
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4052885049986554, guid: 1bf0a63cbeb3847d7867f3ff28123e85, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4052885049986554, guid: 1bf0a63cbeb3847d7867f3ff28123e85, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4052885049986554, guid: 1bf0a63cbeb3847d7867f3ff28123e85, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4052885049986554, guid: 1bf0a63cbeb3847d7867f3ff28123e85, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4052885049986554, guid: 1bf0a63cbeb3847d7867f3ff28123e85, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4052885049986554, guid: 1bf0a63cbeb3847d7867f3ff28123e85, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4052885049986554, guid: 1bf0a63cbeb3847d7867f3ff28123e85, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4052885049986554, guid: 1bf0a63cbeb3847d7867f3ff28123e85, type: 2}
-      propertyPath: m_RootOrder
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 1770103559432636, guid: 1bf0a63cbeb3847d7867f3ff28123e85, type: 2}
-      propertyPath: m_Name
-      value: CannonBall
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 1bf0a63cbeb3847d7867f3ff28123e85, type: 2}
-  m_IsPrefabParent: 0
 --- !u!1 &1488096278
 GameObject:
   m_ObjectHideFlags: 0
@@ -711,7 +665,7 @@ Transform:
   m_LocalScale: {x: 0.28, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -14.7}
 --- !u!61 &1787450901
 BoxCollider2D:
